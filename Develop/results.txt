@@ -1,0 +1,17 @@
+{
+	"title": "sjd",
+	"motivation": "ir",
+	"why": "op",
+	"solve": "w",
+	"learn": "e",
+	"toc": "r",
+	"steps": "f",
+	"examples": "h",
+	"collaborators": "f",
+	"license": "MIT",
+	"badges": "k",
+	"features": "g",
+	"contributions": "s",
+	"tests": "s",
+	"email": "f"
+}
